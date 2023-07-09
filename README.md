@@ -1,6 +1,8 @@
 # Domain-Endpoint-Checker
 
 The "Domain Endpoint Checker" is a command-line tool that helps you check the status codes and final URLs of multiple domains or a single domain, or a huge list of domains. it may uncover common vulnerabilities in different subdomains for example. 
+
+
 Usage
 
 
