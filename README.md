@@ -20,7 +20,7 @@ Options:
 
 :floppy_disk: Installation
 
-    git clone https://github.com/your-username/domain-endpoint-checker.git
+    git clone https://github.com/Nvz0x/domain-endpoint-checker.git
 
   Navigate to the project directory
 
